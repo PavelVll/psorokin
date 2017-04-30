@@ -1,7 +1,7 @@
-package ru.job4j;
+п»їpackage ru.job4j;
 
 /**
- *Class Calculate Класс для выполнения рассчета.
+ *Class Calculate РљР»Р°СЃСЃ РґР»СЏ РІС‹РїРѕР»РЅРµРЅРёСЏ СЂР°СЃСЃС‡РµС‚Р°.
  *@author Pavel Sorokin
  *@since 30.04.2017
  *@version 1
@@ -9,7 +9,7 @@ package ru.job4j;
 public class Calculate {
 
    /**
-    *Главный метод.
+    *Р“Р»Р°РІРЅС‹Р№ РјРµС‚РѕРґ.
     *@return "Hello world!"
     */
    public static void main(String[] args) {
