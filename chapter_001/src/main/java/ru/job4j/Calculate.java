@@ -1,7 +1,18 @@
-package ru.job4j;
+﻿package ru.job4j;
 
+/**
+ *Класс Calculate
+ *@author Pavel Sorokin
+ *@since 01.05.2017
+ *@version 1
+ */
 public class Calculate {
-    public static void main(String[] args) {
+
+   /**
+    *Главный метод.
+    *@return "Hello world!"
+    */
+   public static void main(String[] args) {
         System.out.println("Hello world!");
-    }
+   }
 }
